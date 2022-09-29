@@ -1,0 +1,15 @@
+C:\Users\ewine\OneDrive\Escritorio\C#\ConseptosPOO\bin\Debug\net6.0\ConseptosPOO.exe
+C:\Users\ewine\OneDrive\Escritorio\C#\ConseptosPOO\bin\Debug\net6.0\ConseptosPOO.deps.json
+C:\Users\ewine\OneDrive\Escritorio\C#\ConseptosPOO\bin\Debug\net6.0\ConseptosPOO.runtimeconfig.json
+C:\Users\ewine\OneDrive\Escritorio\C#\ConseptosPOO\bin\Debug\net6.0\ConseptosPOO.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\ConseptosPOO\bin\Debug\net6.0\ConseptosPOO.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\ConseptosPOO\obj\Debug\net6.0\ConseptosPOO.csproj.AssemblyReference.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\ConseptosPOO\obj\Debug\net6.0\ConseptosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewine\OneDrive\Escritorio\C#\ConseptosPOO\obj\Debug\net6.0\ConseptosPOO.AssemblyInfoInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\ConseptosPOO\obj\Debug\net6.0\ConseptosPOO.AssemblyInfo.cs
+C:\Users\ewine\OneDrive\Escritorio\C#\ConseptosPOO\obj\Debug\net6.0\ConseptosPOO.csproj.CoreCompileInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\ConseptosPOO\obj\Debug\net6.0\ConseptosPOO.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\ConseptosPOO\obj\Debug\net6.0\refint\ConseptosPOO.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\ConseptosPOO\obj\Debug\net6.0\ConseptosPOO.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\ConseptosPOO\obj\Debug\net6.0\ConseptosPOO.genruntimeconfig.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\ConseptosPOO\obj\Debug\net6.0\ref\ConseptosPOO.dll

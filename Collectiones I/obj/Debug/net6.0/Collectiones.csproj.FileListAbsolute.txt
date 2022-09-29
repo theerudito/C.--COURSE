@@ -1,0 +1,15 @@
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones\bin\Debug\net6.0\Collectiones.exe
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones\bin\Debug\net6.0\Collectiones.deps.json
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones\bin\Debug\net6.0\Collectiones.runtimeconfig.json
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones\bin\Debug\net6.0\Collectiones.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones\bin\Debug\net6.0\Collectiones.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones\obj\Debug\net6.0\Collectiones.csproj.AssemblyReference.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones\obj\Debug\net6.0\Collectiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones\obj\Debug\net6.0\Collectiones.AssemblyInfoInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones\obj\Debug\net6.0\Collectiones.AssemblyInfo.cs
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones\obj\Debug\net6.0\Collectiones.csproj.CoreCompileInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones\obj\Debug\net6.0\Collectiones.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones\obj\Debug\net6.0\refint\Collectiones.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones\obj\Debug\net6.0\Collectiones.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones\obj\Debug\net6.0\Collectiones.genruntimeconfig.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones\obj\Debug\net6.0\ref\Collectiones.dll

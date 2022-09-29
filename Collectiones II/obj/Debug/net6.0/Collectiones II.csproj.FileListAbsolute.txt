@@ -1,0 +1,15 @@
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones II\bin\Debug\net6.0\Collectiones II.exe
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones II\bin\Debug\net6.0\Collectiones II.deps.json
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones II\bin\Debug\net6.0\Collectiones II.runtimeconfig.json
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones II\bin\Debug\net6.0\Collectiones II.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones II\bin\Debug\net6.0\Collectiones II.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones II\obj\Debug\net6.0\Collectiones II.csproj.AssemblyReference.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones II\obj\Debug\net6.0\Collectiones II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones II\obj\Debug\net6.0\Collectiones II.AssemblyInfoInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones II\obj\Debug\net6.0\Collectiones II.AssemblyInfo.cs
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones II\obj\Debug\net6.0\Collectiones II.csproj.CoreCompileInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones II\obj\Debug\net6.0\Collectiones II.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones II\obj\Debug\net6.0\refint\Collectiones II.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones II\obj\Debug\net6.0\Collectiones II.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones II\obj\Debug\net6.0\Collectiones II.genruntimeconfig.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\Collectiones II\obj\Debug\net6.0\ref\Collectiones II.dll

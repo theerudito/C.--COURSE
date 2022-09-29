@@ -1,0 +1,15 @@
+C:\Users\ewine\OneDrive\Escritorio\C#\DELEGADOS\bin\Debug\net6.0\DELEGADOS.exe
+C:\Users\ewine\OneDrive\Escritorio\C#\DELEGADOS\bin\Debug\net6.0\DELEGADOS.deps.json
+C:\Users\ewine\OneDrive\Escritorio\C#\DELEGADOS\bin\Debug\net6.0\DELEGADOS.runtimeconfig.json
+C:\Users\ewine\OneDrive\Escritorio\C#\DELEGADOS\bin\Debug\net6.0\DELEGADOS.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\DELEGADOS\bin\Debug\net6.0\DELEGADOS.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\DELEGADOS\obj\Debug\net6.0\DELEGADOS.csproj.AssemblyReference.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\DELEGADOS\obj\Debug\net6.0\DELEGADOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewine\OneDrive\Escritorio\C#\DELEGADOS\obj\Debug\net6.0\DELEGADOS.AssemblyInfoInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\DELEGADOS\obj\Debug\net6.0\DELEGADOS.AssemblyInfo.cs
+C:\Users\ewine\OneDrive\Escritorio\C#\DELEGADOS\obj\Debug\net6.0\DELEGADOS.csproj.CoreCompileInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\DELEGADOS\obj\Debug\net6.0\DELEGADOS.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\DELEGADOS\obj\Debug\net6.0\refint\DELEGADOS.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\DELEGADOS\obj\Debug\net6.0\DELEGADOS.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\DELEGADOS\obj\Debug\net6.0\DELEGADOS.genruntimeconfig.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\DELEGADOS\obj\Debug\net6.0\ref\DELEGADOS.dll

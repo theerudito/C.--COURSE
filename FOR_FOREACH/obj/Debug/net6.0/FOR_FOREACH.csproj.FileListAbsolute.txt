@@ -1,0 +1,15 @@
+C:\Users\ewine\OneDrive\Escritorio\C#\FOR_FOREACH\bin\Debug\net6.0\FOR_FOREACH.exe
+C:\Users\ewine\OneDrive\Escritorio\C#\FOR_FOREACH\bin\Debug\net6.0\FOR_FOREACH.deps.json
+C:\Users\ewine\OneDrive\Escritorio\C#\FOR_FOREACH\bin\Debug\net6.0\FOR_FOREACH.runtimeconfig.json
+C:\Users\ewine\OneDrive\Escritorio\C#\FOR_FOREACH\bin\Debug\net6.0\FOR_FOREACH.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\FOR_FOREACH\bin\Debug\net6.0\FOR_FOREACH.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\FOR_FOREACH\obj\Debug\net6.0\FOR_FOREACH.csproj.AssemblyReference.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\FOR_FOREACH\obj\Debug\net6.0\FOR_FOREACH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewine\OneDrive\Escritorio\C#\FOR_FOREACH\obj\Debug\net6.0\FOR_FOREACH.AssemblyInfoInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\FOR_FOREACH\obj\Debug\net6.0\FOR_FOREACH.AssemblyInfo.cs
+C:\Users\ewine\OneDrive\Escritorio\C#\FOR_FOREACH\obj\Debug\net6.0\FOR_FOREACH.csproj.CoreCompileInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\FOR_FOREACH\obj\Debug\net6.0\FOR_FOREACH.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\FOR_FOREACH\obj\Debug\net6.0\refint\FOR_FOREACH.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\FOR_FOREACH\obj\Debug\net6.0\FOR_FOREACH.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\FOR_FOREACH\obj\Debug\net6.0\FOR_FOREACH.genruntimeconfig.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\FOR_FOREACH\obj\Debug\net6.0\ref\FOR_FOREACH.dll

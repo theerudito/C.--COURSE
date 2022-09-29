@@ -1,0 +1,15 @@
+C:\Users\ewine\OneDrive\Escritorio\C#\LINQ_CON_OBJECT\obj\Debug\net6.0\LINQ_CON_OBJECT.csproj.AssemblyReference.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\LINQ_CON_OBJECT\obj\Debug\net6.0\LINQ_CON_OBJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewine\OneDrive\Escritorio\C#\LINQ_CON_OBJECT\obj\Debug\net6.0\LINQ_CON_OBJECT.AssemblyInfoInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\LINQ_CON_OBJECT\obj\Debug\net6.0\LINQ_CON_OBJECT.AssemblyInfo.cs
+C:\Users\ewine\OneDrive\Escritorio\C#\LINQ_CON_OBJECT\obj\Debug\net6.0\LINQ_CON_OBJECT.csproj.CoreCompileInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\LINQ_CON_OBJECT\bin\Debug\net6.0\LINQ_CON_OBJECT.exe
+C:\Users\ewine\OneDrive\Escritorio\C#\LINQ_CON_OBJECT\bin\Debug\net6.0\LINQ_CON_OBJECT.deps.json
+C:\Users\ewine\OneDrive\Escritorio\C#\LINQ_CON_OBJECT\bin\Debug\net6.0\LINQ_CON_OBJECT.runtimeconfig.json
+C:\Users\ewine\OneDrive\Escritorio\C#\LINQ_CON_OBJECT\bin\Debug\net6.0\LINQ_CON_OBJECT.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\LINQ_CON_OBJECT\bin\Debug\net6.0\LINQ_CON_OBJECT.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\LINQ_CON_OBJECT\obj\Debug\net6.0\LINQ_CON_OBJECT.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\LINQ_CON_OBJECT\obj\Debug\net6.0\refint\LINQ_CON_OBJECT.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\LINQ_CON_OBJECT\obj\Debug\net6.0\LINQ_CON_OBJECT.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\LINQ_CON_OBJECT\obj\Debug\net6.0\LINQ_CON_OBJECT.genruntimeconfig.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\LINQ_CON_OBJECT\obj\Debug\net6.0\ref\LINQ_CON_OBJECT.dll

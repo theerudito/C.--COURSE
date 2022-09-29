@@ -1,0 +1,15 @@
+C:\Users\ewine\OneDrive\Escritorio\C#\PREDICADOS\bin\Debug\net6.0\PREDICADOS.exe
+C:\Users\ewine\OneDrive\Escritorio\C#\PREDICADOS\bin\Debug\net6.0\PREDICADOS.deps.json
+C:\Users\ewine\OneDrive\Escritorio\C#\PREDICADOS\bin\Debug\net6.0\PREDICADOS.runtimeconfig.json
+C:\Users\ewine\OneDrive\Escritorio\C#\PREDICADOS\bin\Debug\net6.0\PREDICADOS.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\PREDICADOS\bin\Debug\net6.0\PREDICADOS.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\PREDICADOS\obj\Debug\net6.0\PREDICADOS.csproj.AssemblyReference.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\PREDICADOS\obj\Debug\net6.0\PREDICADOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewine\OneDrive\Escritorio\C#\PREDICADOS\obj\Debug\net6.0\PREDICADOS.AssemblyInfoInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\PREDICADOS\obj\Debug\net6.0\PREDICADOS.AssemblyInfo.cs
+C:\Users\ewine\OneDrive\Escritorio\C#\PREDICADOS\obj\Debug\net6.0\PREDICADOS.csproj.CoreCompileInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\PREDICADOS\obj\Debug\net6.0\PREDICADOS.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\PREDICADOS\obj\Debug\net6.0\refint\PREDICADOS.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\PREDICADOS\obj\Debug\net6.0\PREDICADOS.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\PREDICADOS\obj\Debug\net6.0\PREDICADOS.genruntimeconfig.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\PREDICADOS\obj\Debug\net6.0\ref\PREDICADOS.dll

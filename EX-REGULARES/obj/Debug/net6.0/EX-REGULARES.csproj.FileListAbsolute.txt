@@ -1,0 +1,15 @@
+C:\Users\ewine\OneDrive\Escritorio\C#\EX-REGULARES\bin\Debug\net6.0\EX-REGULARES.exe
+C:\Users\ewine\OneDrive\Escritorio\C#\EX-REGULARES\bin\Debug\net6.0\EX-REGULARES.deps.json
+C:\Users\ewine\OneDrive\Escritorio\C#\EX-REGULARES\bin\Debug\net6.0\EX-REGULARES.runtimeconfig.json
+C:\Users\ewine\OneDrive\Escritorio\C#\EX-REGULARES\bin\Debug\net6.0\EX-REGULARES.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\EX-REGULARES\bin\Debug\net6.0\EX-REGULARES.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\EX-REGULARES\obj\Debug\net6.0\EX-REGULARES.csproj.AssemblyReference.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\EX-REGULARES\obj\Debug\net6.0\EX-REGULARES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewine\OneDrive\Escritorio\C#\EX-REGULARES\obj\Debug\net6.0\EX-REGULARES.AssemblyInfoInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\EX-REGULARES\obj\Debug\net6.0\EX-REGULARES.AssemblyInfo.cs
+C:\Users\ewine\OneDrive\Escritorio\C#\EX-REGULARES\obj\Debug\net6.0\EX-REGULARES.csproj.CoreCompileInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\EX-REGULARES\obj\Debug\net6.0\EX-REGULARES.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\EX-REGULARES\obj\Debug\net6.0\refint\EX-REGULARES.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\EX-REGULARES\obj\Debug\net6.0\EX-REGULARES.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\EX-REGULARES\obj\Debug\net6.0\EX-REGULARES.genruntimeconfig.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\EX-REGULARES\obj\Debug\net6.0\ref\EX-REGULARES.dll
