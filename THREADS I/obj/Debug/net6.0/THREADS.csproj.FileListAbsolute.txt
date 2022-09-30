@@ -1,0 +1,15 @@
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS\bin\Debug\net6.0\THREADS.exe
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS\bin\Debug\net6.0\THREADS.deps.json
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS\bin\Debug\net6.0\THREADS.runtimeconfig.json
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS\bin\Debug\net6.0\THREADS.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS\bin\Debug\net6.0\THREADS.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS\obj\Debug\net6.0\THREADS.csproj.AssemblyReference.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS\obj\Debug\net6.0\THREADS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS\obj\Debug\net6.0\THREADS.AssemblyInfoInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS\obj\Debug\net6.0\THREADS.AssemblyInfo.cs
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS\obj\Debug\net6.0\THREADS.csproj.CoreCompileInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS\obj\Debug\net6.0\THREADS.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS\obj\Debug\net6.0\refint\THREADS.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS\obj\Debug\net6.0\THREADS.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS\obj\Debug\net6.0\THREADS.genruntimeconfig.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS\obj\Debug\net6.0\ref\THREADS.dll
