@@ -5,12 +5,31 @@ namespace BLOQUEOS_THEREADS
   {
     static void Main(string[] args)
     {
-      System.Console.WriteLine("'Hello World!'");
+
+
+      CuentaBancaria cuentaFamilia = new CuentaBancaria(2000);
+
+      Thread[] Hilos_Pesonas = new Thread[10];
+
+      for (int i = 0; i < 10; i++)
+      {
+        // creamos los tread
+        Thread t = new Thread(cuentaFamilia.VamosRetirarEfectivo);
+
+        // nombre del hilo
+        t.Name = i.ToString();
+
+        Hilos_Pesonas[i] = t;
+      }
+
+      for (int i = 0; i < 10; i++) Hilos_Pesonas[i].Start();
+
     }
   }
   class CuentaBancaria
   {
 
+    private object bloqueoSaldoPositivo = new object();
     double saldo { set; get; }
     public CuentaBancaria(double saldo)
     {
@@ -18,18 +37,34 @@ namespace BLOQUEOS_THEREADS
     }
     public double RetirarEfectivo(double cantidad)
     {
-      if ((cantidad - saldo) < 0)
+      if ((saldo - cantidad) < 0)
       {
-        System.Console.WriteLine($"Lo Siento queda ${saldo} Dolares en la cuenta ");
+        System.Console.WriteLine($"Lo Siento queda ${saldo} Dolares en la cuenta, Hilo {Thread.CurrentThread.Name}");
         return saldo;
       }
-      if (saldo => cantidad)
-      {
+      // bloqueamos el hilo
 
-        System.Console.WriteLine($"Retiro ${0} y queda {1} en la cuenta ", cantidad, (saldo - cantidad));
-        saldo -= cantidad;
+      lock (bloqueoSaldoPositivo)
+      {
+        if (saldo >= cantidad)
+        {
+
+          System.Console.WriteLine($"Retirando ${cantidad} Dolares de la cuenta, Hilo {Thread.CurrentThread.Name}");
+          saldo -= cantidad;
+        }
+        return saldo;
       }
-      return saldo;
     }
+
+    public void VamosRetirarEfectivo()
+    {
+      System.Console.WriteLine($"Estas sacando dinero, Hilo {Thread.CurrentThread.Name}");
+      for (int i = 0; i < 4; i++)
+      {
+        RetirarEfectivo(100);
+      }
+
+    }
+
   }
 }

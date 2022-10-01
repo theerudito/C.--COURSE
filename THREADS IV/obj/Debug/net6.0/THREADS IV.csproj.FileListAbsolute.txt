@@ -1,0 +1,15 @@
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS IV\bin\Debug\net6.0\THREADS IV.exe
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS IV\bin\Debug\net6.0\THREADS IV.deps.json
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS IV\bin\Debug\net6.0\THREADS IV.runtimeconfig.json
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS IV\bin\Debug\net6.0\THREADS IV.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS IV\bin\Debug\net6.0\THREADS IV.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS IV\obj\Debug\net6.0\THREADS IV.csproj.AssemblyReference.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS IV\obj\Debug\net6.0\THREADS IV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS IV\obj\Debug\net6.0\THREADS IV.AssemblyInfoInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS IV\obj\Debug\net6.0\THREADS IV.AssemblyInfo.cs
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS IV\obj\Debug\net6.0\THREADS IV.csproj.CoreCompileInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS IV\obj\Debug\net6.0\THREADS IV.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS IV\obj\Debug\net6.0\refint\THREADS IV.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS IV\obj\Debug\net6.0\THREADS IV.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS IV\obj\Debug\net6.0\THREADS IV.genruntimeconfig.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\THREADS IV\obj\Debug\net6.0\ref\THREADS IV.dll
