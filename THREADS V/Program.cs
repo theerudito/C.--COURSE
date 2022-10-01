@@ -1,6 +1,7 @@
 ﻿// pool de threads
-// utilidad de la clase Thread
+// utilidad de la clase Thread para obtimizar el uso de los recursos del sistema
 // ejemplo en bases de datos con threads cuando tenemos 10 o 100 tareas
+
 
 namespace POOL_THREADS
 {
