@@ -1,0 +1,15 @@
+C:\Users\ewine\OneDrive\Escritorio\C#\CLASE-PARALLEL\bin\Debug\net6.0\CLASE-PARALLEL.exe
+C:\Users\ewine\OneDrive\Escritorio\C#\CLASE-PARALLEL\bin\Debug\net6.0\CLASE-PARALLEL.deps.json
+C:\Users\ewine\OneDrive\Escritorio\C#\CLASE-PARALLEL\bin\Debug\net6.0\CLASE-PARALLEL.runtimeconfig.json
+C:\Users\ewine\OneDrive\Escritorio\C#\CLASE-PARALLEL\bin\Debug\net6.0\CLASE-PARALLEL.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\CLASE-PARALLEL\bin\Debug\net6.0\CLASE-PARALLEL.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\CLASE-PARALLEL\obj\Debug\net6.0\CLASE-PARALLEL.csproj.AssemblyReference.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\CLASE-PARALLEL\obj\Debug\net6.0\CLASE-PARALLEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewine\OneDrive\Escritorio\C#\CLASE-PARALLEL\obj\Debug\net6.0\CLASE-PARALLEL.AssemblyInfoInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\CLASE-PARALLEL\obj\Debug\net6.0\CLASE-PARALLEL.AssemblyInfo.cs
+C:\Users\ewine\OneDrive\Escritorio\C#\CLASE-PARALLEL\obj\Debug\net6.0\CLASE-PARALLEL.csproj.CoreCompileInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\CLASE-PARALLEL\obj\Debug\net6.0\CLASE-PARALLEL.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\CLASE-PARALLEL\obj\Debug\net6.0\refint\CLASE-PARALLEL.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\CLASE-PARALLEL\obj\Debug\net6.0\CLASE-PARALLEL.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\CLASE-PARALLEL\obj\Debug\net6.0\CLASE-PARALLEL.genruntimeconfig.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\CLASE-PARALLEL\obj\Debug\net6.0\ref\CLASE-PARALLEL.dll

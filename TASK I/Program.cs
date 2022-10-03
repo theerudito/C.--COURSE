@@ -10,9 +10,11 @@ namespace TASK
     {
       // creamos una tarea
       Task tarea = new Task(Task1);
+      
 
       // iniciamos la tarea
       tarea.Start();
+
 
       // segunda tarea
       Task tarea2 = new Task(() =>
@@ -29,6 +31,7 @@ namespace TASK
 
       System.Console.ReadLine();
     }
+
 
 
     static void Task1()

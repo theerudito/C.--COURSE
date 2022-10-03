@@ -1,0 +1,15 @@
+C:\Users\ewine\OneDrive\Escritorio\C#\TASK III\bin\Debug\net6.0\TASK III.exe
+C:\Users\ewine\OneDrive\Escritorio\C#\TASK III\bin\Debug\net6.0\TASK III.deps.json
+C:\Users\ewine\OneDrive\Escritorio\C#\TASK III\bin\Debug\net6.0\TASK III.runtimeconfig.json
+C:\Users\ewine\OneDrive\Escritorio\C#\TASK III\bin\Debug\net6.0\TASK III.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\TASK III\bin\Debug\net6.0\TASK III.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\TASK III\obj\Debug\net6.0\TASK III.csproj.AssemblyReference.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\TASK III\obj\Debug\net6.0\TASK III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewine\OneDrive\Escritorio\C#\TASK III\obj\Debug\net6.0\TASK III.AssemblyInfoInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\TASK III\obj\Debug\net6.0\TASK III.AssemblyInfo.cs
+C:\Users\ewine\OneDrive\Escritorio\C#\TASK III\obj\Debug\net6.0\TASK III.csproj.CoreCompileInputs.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\TASK III\obj\Debug\net6.0\TASK III.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\TASK III\obj\Debug\net6.0\refint\TASK III.dll
+C:\Users\ewine\OneDrive\Escritorio\C#\TASK III\obj\Debug\net6.0\TASK III.pdb
+C:\Users\ewine\OneDrive\Escritorio\C#\TASK III\obj\Debug\net6.0\TASK III.genruntimeconfig.cache
+C:\Users\ewine\OneDrive\Escritorio\C#\TASK III\obj\Debug\net6.0\ref\TASK III.dll
